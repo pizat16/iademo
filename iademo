@@ -18,7 +18,7 @@
   --bg3:#1e3e66;      /* Resaltados */
   
   --cyan:#a1eaff;     /* CIAN HIELO (Más claro) */
-  --cyan-dim:rgba(161, 234, 255, 0.12);
+  --cyan-dim:rgba(160, 234, 255, 0.12);
   --cyan-b:rgba(161, 234, 255, 0.3);
   
   --green:#70ffdb;    /* Verde aguamarina */
